@@ -13,3 +13,5 @@ git push -u origin main
 git branch
 git branch -b feature/login
 git checkout feature/login
+
+git push origin feature/bye
