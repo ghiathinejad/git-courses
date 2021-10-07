@@ -17,3 +17,6 @@ git checkout feature/login
 git push origin feature/bye
 
 git checkout -b bug/hello spell
+
+
+git pull origin feature/bye
