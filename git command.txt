@@ -1,0 +1,15 @@
+git init
+git status
+git add .
+git add test.txt
+git commit -m 'this is a commit'
+git rm -r folder-name
+git rm file-name
+
+git remote add origin ADDRESS
+git push origin
+
+
+git branch
+git branch -b feature/login
+git checkout feature/login
