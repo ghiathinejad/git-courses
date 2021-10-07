@@ -15,3 +15,5 @@ git branch -b feature/login
 git checkout feature/login
 
 git push origin feature/bye
+
+git checkout -b bug/hello spell
